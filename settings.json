@@ -1,6 +1,8 @@
 {
   "hooks": {
     "SessionStart": [
+    ],
+    "SessionEnd": [
     ]
   },
   "enabledPlugins": {
