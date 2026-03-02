@@ -35,12 +35,44 @@
   },  
   "hooks": {
     "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "eduardo-kirk session-start"
+          }
+        ]
+      }
     ],
     "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "eduardo-kirk session-end"
+          }
+        ]
+      }
     ],
     "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "eduardo-kirk notification"
+          }
+        ]
+      }
     ],
     "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "eduardo-kirk stop"
+          }
+        ]
+      }
     ]
   },
   "enabledPlugins": {
