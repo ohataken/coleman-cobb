@@ -3,6 +3,8 @@
     "SessionStart": [
     ],
     "SessionEnd": [
+    ],
+    "Notification": [
     ]
   },
   "enabledPlugins": {
