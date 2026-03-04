@@ -28,6 +28,7 @@
       "Bash(git log *)",
       "Bash(git show *)",
       "Bash(git rev-parse *)",
+      "Bash(code *)",
       "Bash(ls *)"
     ],
     "deny": [
