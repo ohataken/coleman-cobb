@@ -34,6 +34,7 @@
       "Bash(ls *)"
     ],
     "ask": [
+      "Bash(git push *)"
     ],
     "deny": [
     ]
