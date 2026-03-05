@@ -33,6 +33,8 @@
       "Bash(code *)",
       "Bash(ls *)"
     ],
+    "ask": [
+    ],
     "deny": [
     ]
   },  
