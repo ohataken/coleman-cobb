@@ -81,6 +81,10 @@
       }
     ]
   },
+  "statusLine": {
+    "type": "command",
+    "command": "jq -r '\"\\(.cwd)\"'"
+  },
   "enabledPlugins": {
     "code-review@claude-plugins-official": true
   },
