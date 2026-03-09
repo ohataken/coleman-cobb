@@ -31,7 +31,8 @@
       "Bash(git commit *)",
       "Bash(git rev-parse *)",
       "Bash(code *)",
-      "Bash(ls *)"
+      "Bash(ls *)",
+      "Bash(find *)"
     ],
     "ask": [
       "Bash(git push *)"
