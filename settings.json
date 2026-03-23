@@ -85,7 +85,7 @@
   },
   "statusLine": {
     "type": "command",
-    "command": "jq -r '\"\\(.cwd)\"'"
+    "command": "sietse-statusline"
   },
   "enabledPlugins": {
     "code-review@claude-plugins-official": true
