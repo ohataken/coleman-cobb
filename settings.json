@@ -12,6 +12,7 @@
       "Bash(gh issue status *)",
       "Bash(gh issue comment *)",
       "Bash(gh repo view *)",
+      "Bash(gh run download *)",
       "Bash(gh run list *)",
       "Bash(gh run view *)",
       "Bash(gh run watch *)",
