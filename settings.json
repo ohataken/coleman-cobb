@@ -89,6 +89,7 @@
   },
   "enabledPlugins": {
     "slack@claude-plugins-official": true,
+    "notion@claude-plugins-official": true,
     "code-review@claude-plugins-official": true
   },
   "language": "japanese"
