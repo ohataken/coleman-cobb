@@ -25,6 +25,7 @@
       "Bash(gh search *)",
       "Bash(gh label list *)",
       "Bash(gh browse *)",
+      "Bash(git push *)",
       "Bash(git status *)",
       "Bash(git diff *)",
       "Bash(git log *)",
@@ -38,7 +39,6 @@
       "Bash(ls *)"
     ],
     "ask": [
-      "Bash(git push *)"
     ],
     "deny": [
     ]
