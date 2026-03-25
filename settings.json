@@ -86,7 +86,7 @@
   },
   "statusLine": {
     "type": "command",
-    "command": "sietse-statusline"
+    "command": "sietse-statusline claude --project-dir-name --space --slash --space --current-dir-name --reset --space --slash --space --bright-black --branch-name --reset"
   },
   "enabledPlugins": {
     "slack@claude-plugins-official": true,
