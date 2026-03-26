@@ -4,9 +4,17 @@
     "deny": [
     ],
     "ask": [
+      "mcp__plugin_figma_figma__create_design_system_rules",
       "mcp__plugin_Notion_notion__notion-update-page"
     ],
     "allow": [
+      "mcp__plugin_figma_figma__get_design_context",
+      "mcp__plugin_figma_figma__get_variable_defs",
+      "mcp__plugin_figma_figma__get_code_connect_map",
+      "mcp__plugin_figma_figma__get_screenshot",
+      "mcp__plugin_figma_figma__get_metadata",
+      "mcp__plugin_figma_figma__get_figjam",
+      "mcp__plugin_figma_figma__whoami",
       "mcp__plugin_Notion_notion__notion-fetch",
       "mcp__plugin_Notion_notion__notion-update-page",
       "Bash(gh pr create --draft *)",
