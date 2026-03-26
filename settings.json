@@ -4,8 +4,11 @@
     "deny": [
     ],
     "ask": [
+      "mcp__plugin_Notion_notion__notion-update-page"
     ],
     "allow": [
+      "mcp__plugin_Notion_notion__notion-fetch",
+      "mcp__plugin_Notion_notion__notion-update-page",
       "Bash(gh pr create --draft *)",
       "Bash(gh pr list *)",
       "Bash(gh pr view *)",
