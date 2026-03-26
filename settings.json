@@ -108,5 +108,6 @@
     "sentry@claude-plugins-official": true,
     "code-review@claude-plugins-official": true
   },
-  "language": "japanese"
+  "language": "japanese",
+  "effortLevel": "high"
 }
