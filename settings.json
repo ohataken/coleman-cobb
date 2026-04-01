@@ -114,5 +114,6 @@
     "code-review@claude-plugins-official": true
   },
   "language": "japanese",
-  "effortLevel": "high"
+  "effortLevel": "high",
+  "voiceEnabled": true
 }
