@@ -69,6 +69,7 @@
       "Bash(find *)",
       "Bash(grep *)",
       "Bash(tail *)",
+      "Bash(head *)",
       "Bash(ls *)"
     ]
   },
