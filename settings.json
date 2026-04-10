@@ -130,5 +130,7 @@
   },
   "language": "japanese",
   "effortLevel": "high",
-  "voiceEnabled": true
+  "voiceEnabled": true,
+  "env": {
+  }
 }
