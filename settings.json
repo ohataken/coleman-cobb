@@ -119,7 +119,7 @@
   },
   "statusLine": {
     "type": "command",
-    "command": "sietse-statusline claude --branch-name --space --bright-black --slash --reset --space --current-dir-name --reset"
+    "command": "sietse-statusline claude --cyan --bold --current-dir-name --reset --space --white on --space --magenta --bold   --space --branch-name --reset --break SHA --space --branch-head-sha --reset"
   },
   "enabledPlugins": {
     "slack@claude-plugins-official": true,
