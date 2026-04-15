@@ -72,6 +72,7 @@
       "Bash(grep *)",
       "Bash(tail *)",
       "Bash(head *)",
+      "Bash(diff *)",
       "Bash(cat *)",
       "Bash(ls *)"
     ]
