@@ -63,6 +63,7 @@
       "Bash(git show *)",
       "Bash(git reset *)",
       "Bash(git add *)",
+      "Bash(git apply *)",
       "Bash(git commit *)",
       "Bash(git branch -m *)",
       "Bash(git branch --show-current)",
