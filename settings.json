@@ -69,6 +69,7 @@
       "Bash(git branch --show-current)",
       "Bash(git rev-parse *)",
       "Bash(code *)",
+      "Bash(wait *)",
       "Bash(find *)",
       "Bash(grep *)",
       "Bash(tail *)",
