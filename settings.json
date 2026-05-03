@@ -56,6 +56,7 @@
       "Bash(gh label list *)",
       "Bash(gh browse *)",
       "Bash(git push *)",
+      "Bash(git pull *)",
       "Bash(git rebase *)",
       "Bash(git fetch *)",
       "Bash(git checkout *)",
