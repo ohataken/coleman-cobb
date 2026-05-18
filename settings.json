@@ -7,7 +7,8 @@
     ],
     "ask": [
       "mcp__plugin_figma_figma__create_design_system_rules",
-      "mcp__plugin_Notion_notion__notion-update-page"
+      "mcp__plugin_Notion_notion__notion-update-page",
+      "Bash(git push *)"
     ],
     "allow": [
       "mcp__plugin_sentry_sentry__search_issues",
@@ -55,7 +56,6 @@
       "Bash(gh search *)",
       "Bash(gh label list *)",
       "Bash(gh browse *)",
-      "Bash(git push *)",
       "Bash(git pull *)",
       "Bash(git rebase *)",
       "Bash(git fetch *)",
