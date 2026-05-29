@@ -140,5 +140,6 @@
   },
   "language": "japanese",
   "effortLevel": "high",
-  "voiceEnabled": true
+  "voiceEnabled": true,
+  "fastMode": true
 }
