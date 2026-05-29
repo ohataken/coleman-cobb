@@ -139,6 +139,5 @@
     "code-review@claude-plugins-official": true,
   },
   "language": "japanese",
-  "effortLevel": "high",
   "fastMode": true
 }
