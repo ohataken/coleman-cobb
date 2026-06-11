@@ -141,6 +141,8 @@
     "skill-creator@claude-plugins-official": true,
     "code-review@claude-plugins-official": true
   },
+  "extraKnownMarketplaces": {
+  },
   "language": "japanese",
   "fastMode": true
 }
