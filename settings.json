@@ -3,6 +3,7 @@
   "env": {
   },
   "permissions": {
+    "defaultMode": "auto",
     "deny": [
     ],
     "ask": [
