@@ -5,6 +5,7 @@
   "permissions": {
     "defaultMode": "auto",
     "deny": [
+      "docker start *"
     ],
     "ask": [
       "mcp__plugin_figma_figma__create_design_system_rules",
