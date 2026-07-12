@@ -6,7 +6,7 @@
     "defaultMode": "auto",
     "deny": [
       "docker port *",
-      "docker compose *",
+      "Bash(docker compose *)",
       "Bash(docker start *)"
     ],
     "ask": [
