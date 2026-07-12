@@ -5,7 +5,7 @@
   "permissions": {
     "defaultMode": "auto",
     "deny": [
-      "docker port *",
+      "Bash(docker port *)",
       "Bash(docker compose *)",
       "Bash(docker start *)"
     ],
