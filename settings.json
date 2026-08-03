@@ -186,5 +186,6 @@
   },
   "language": "japanese",
   "fastMode": true,
-  "tui": "fullscreen"
+  "tui": "fullscreen",
+  "theme": "light"
 }
