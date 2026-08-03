@@ -145,5 +145,6 @@
   "extraKnownMarketplaces": {
   },
   "language": "japanese",
-  "fastMode": true
+  "fastMode": true,
+  "tui": "fullscreen"
 }
